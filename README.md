@@ -42,13 +42,3 @@ The entire project is built using two main files:
 - **CSS3**
 - No frameworks or JavaScript used
 
-
-## 📁 Folder Structure
-
-amazon-clone/
-│
-├── index.html
-├── style.css
-├── images/
-│ └── (All required images like logo, banners, etc.)
-└── README.md
